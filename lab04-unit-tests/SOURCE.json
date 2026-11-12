@@ -1,0 +1,9 @@
+{
+  "source_commit": "6a4288d50e0c0431d5bdc9ab6a9480153a1ec553",
+  "sha256": {
+    "circle.py": "e86ad29703ee0d3dfb8a2b07ace35c55db2630f089b8067996ea1ced1c9ea416",
+    "square.py": "14d4707c514e918bff0fdec426e22fab0210fe03f2ac8908f3674d3b8ee5f8c1",
+    "rectangle.py": "d2cad99f4420bc1a5ca71923262f10003b125e55124117d17859078e565c243c",
+    "triangle.py": "17e8b05ebfccf5272f3b89eca7e6e18312e76cd78eaa4f1bffe40e4d9972745c"
+  }
+}
