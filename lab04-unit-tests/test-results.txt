@@ -1,0 +1,43 @@
+Python 3.12.14
+Date: 2026-11-12
+Command: python3 -m unittest discover -s tests -v
+
+test_area_fraction (test_circle.TestCircle.test_area_fraction) ... ok
+test_area_integer (test_circle.TestCircle.test_area_integer) ... ok
+test_area_unit (test_circle.TestCircle.test_area_unit) ... ok
+test_area_zero (test_circle.TestCircle.test_area_zero) ... ok
+test_perimeter_fraction (test_circle.TestCircle.test_perimeter_fraction) ... ok
+test_perimeter_integer (test_circle.TestCircle.test_perimeter_integer) ... ok
+test_perimeter_unit (test_circle.TestCircle.test_perimeter_unit) ... ok
+test_perimeter_zero (test_circle.TestCircle.test_perimeter_zero) ... ok
+test_area_different_sides (test_rectangle.TestRectangle.test_area_different_sides) ... ok
+test_area_equal_sides (test_rectangle.TestRectangle.test_area_equal_sides) ... ok
+test_area_fraction (test_rectangle.TestRectangle.test_area_fraction) ... ok
+test_area_zero_side (test_rectangle.TestRectangle.test_area_zero_side) ... ok
+test_perimeter_different_sides (test_rectangle.TestRectangle.test_perimeter_different_sides) ... ok
+test_perimeter_equal_sides (test_rectangle.TestRectangle.test_perimeter_equal_sides) ... ok
+test_perimeter_fraction (test_rectangle.TestRectangle.test_perimeter_fraction) ... ok
+test_perimeter_zero_side (test_rectangle.TestRectangle.test_perimeter_zero_side) ... ok
+test_area_fraction (test_square.TestSquare.test_area_fraction) ... ok
+test_area_integer (test_square.TestSquare.test_area_integer) ... ok
+test_area_unit (test_square.TestSquare.test_area_unit) ... ok
+test_area_zero (test_square.TestSquare.test_area_zero) ... ok
+test_perimeter_fraction (test_square.TestSquare.test_perimeter_fraction) ... ok
+test_perimeter_integer (test_square.TestSquare.test_perimeter_integer) ... ok
+test_perimeter_unit (test_square.TestSquare.test_perimeter_unit) ... ok
+test_perimeter_zero (test_square.TestSquare.test_perimeter_zero) ... ok
+test_area_fraction (test_triangle.TestTriangle.test_area_fraction) ... ok
+test_area_integer (test_triangle.TestTriangle.test_area_integer) ... ok
+test_area_unit (test_triangle.TestTriangle.test_area_unit) ... ok
+test_area_zero_height (test_triangle.TestTriangle.test_area_zero_height) ... ok
+test_perimeter_equilateral (test_triangle.TestTriangle.test_perimeter_equilateral) ... ok
+test_perimeter_fraction (test_triangle.TestTriangle.test_perimeter_fraction) ... ok
+test_perimeter_right (test_triangle.TestTriangle.test_perimeter_right) ... ok
+test_perimeter_small (test_triangle.TestTriangle.test_perimeter_small) ... ok
+
+----------------------------------------------------------------------
+Ran 32 tests in 0.000s
+
+OK
+
+Exit code: 0
